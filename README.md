@@ -1,4 +1,7 @@
-# Simple React JS Project
+# React JS Project
+# Sample Image : 
+<img src="https://github.com/Mikeflames/reactjs-app-master/blob/master/sample_image.png" align="center" height="400" width="900">
+
 
 ## What is the use of this Repo
 
@@ -10,10 +13,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 5. Using Basic Routing in React
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9202726fe0c1668bef2f4a83af5400d5bbf2bcdb
 
 ## Prerequisites
 
@@ -26,12 +26,10 @@ Install create-react-app npm package globally. This will help to easily run the 
 ```bash
 npm install -g create-react-app
 ```
-<<<<<<< HEAD
-=======
 
 
-Click on the link to see the application
->>>>>>> 9202726fe0c1668bef2f4a83af5400d5bbf2bcdb
+
+
 
 ## Cloning and Running the Application in local
 
