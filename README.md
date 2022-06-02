@@ -1,5 +1,5 @@
 # React JS Project
-# Sample Image : 
+Sample Image : 
 <img src="https://github.com/Mikeflames/reactjs-app-master/blob/master/sample_image.png" align="center" height="400" width="900">
 
 
@@ -64,7 +64,7 @@ The Application Runs on **localhost:3000**
 #### URL
 
 The application has just one url /customerlist which ties to *Customers* Component
-
+<!--
 ## Resources
 
 **create-react-app** : The following link has all the commands that can be used with create-react-app
@@ -72,4 +72,4 @@ https://github.com/facebook/create-react-app
 
 **ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
 
-**React Bootstrap** : Refer to https://react-bootstrap.github.io/getting-started/introduction/ to understand how to use React Bootstrap
+**React Bootstrap** : Refer to https://react-bootstrap.github.io/getting-started/introduction/ to understand how to use React Bootstrap -->
