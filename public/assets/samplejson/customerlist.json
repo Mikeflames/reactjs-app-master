@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Mumbai Indians",
+	"email": "rohit@mumbai.com",
+	"phone": "123456789"
+}, {
+	"id": 2,
+	"name": "Satya Nadella",
+	"email": "satya@microsoft.com",
+	"phone": "987654321"
+}, {
+	"id": 3,
+	"name": "Sundar Pichai",
+	"email": "sundar@google.com",
+	"phone": "123412345"
+}]

@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Satya Nadella",
+	"email": "Satya@microsoft.com",
+	"phone": "1234567890",
+	"city": "Mangalore",
+	"state": "karnataka",
+	"country": "India",
+	"organization": "Microsoft India",
+	"jobProfile": "CEO",
+	"additionalInfo": "Part of FAANG"
+}

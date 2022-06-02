@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Mumbai Indians",
+	"email": "rohit@mubai.com",
+	"phone": "123456789",
+	"city": "Mumbai",
+	"state": "Maharashtra",
+	"country": "India",
+	"organization": "MI",
+	"jobProfile": "HIT MAN",
+	"additionalInfo": "Smooth Cover DRIVE!"
+}
